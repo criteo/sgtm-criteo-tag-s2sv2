@@ -13,3 +13,8 @@
 # limitations under the License.
 
 homepage: "https://www.criteo.com"
+documentation: "https://github.com/criteo/sgtm-criteo-tag-s2sv2/blob/main/README.md"
+versions:
+  # Latest version
+  - sha: f8fb561d64a11508bdf4aa1ed01314107f803321
+    changeNotes: Initial Version
